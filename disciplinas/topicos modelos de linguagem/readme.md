@@ -1,33 +1,5 @@
 Tabela com os Acertos referentes ao Trabalho de QA Tabular utilizando mistral-large e mistral-small
 
-<html>
-<head>
-<style>
-table {
-  border-collapse: collapse;
-  border-spacing: 0;
-  width: 100%;
-  border: 1px solid #ddd;
-}
-
-th {
-  text-align: center;
-  padding: 8px;
-  font-weight: bold;
-}
-
-tr:nth-child(even) {
-  background-color: #f2f2f2;
-}
-
-td{
-  text-align: center;
-  padding: 8px;
-}
-
-</style>
-</head>
-
 <table>
     <tr>
         <th colspan='7' style="text-align: center;">mistral-large</th>
@@ -203,5 +175,3 @@ td{
         <td>7</td>
     </tr>
 </table>
-
-</html>
